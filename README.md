@@ -10,7 +10,7 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-### For X-Axis Assembly
+### For X-Axis Assembly 
 ###   1.	Select X-Axis Assembly from the visible list.
 ###   2.	All the parts related to X-Axis will be shown on the screen.
 ###   3.	Select the parts in sequence in which they are shown.
